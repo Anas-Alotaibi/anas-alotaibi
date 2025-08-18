@@ -11,7 +11,7 @@
 - **[Café Sales Data Analysis with Python](https://github.com/Anas-Alotaibi/Cafe-data-analysis-python-)**  
   *Performed data cleaning and exploratory data analysis (EDA) *  
 
-- **[Interactive Dashboard in Power BI](https://github.com/anasalotaibi03/cafe-sales-powerbi-dashboard)**  
+- **[Interactive Dashboard in Power BI](https://github.com/Anas-Alotaibi/cafe-powerbi-dashboard)**  
   *Designed a professional dashboard to visualize sales performance and key metrics.*  
 
 
