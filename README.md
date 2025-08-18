@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Anas Alotaibi  
 
-<!--
-**Anas-Alotaibi/anas-alotaibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Statistics student  
+💻 Skilled in Python, SQL, and Power BI  
+📊 Passionate about data cleaning, exploratory data analysis (EDA), and building interactive dashboards  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+- **[Café Sales Data Analysis with Python](https://github.com/Anas-Alotaibi/Cafe-data-analysis-python-)**  
+  *Performed data cleaning and exploratory data analysis (EDA) *  
+
+- **[Interactive Dashboard in Power BI](https://github.com/anasalotaibi03/cafe-sales-powerbi-dashboard)**  
+  *Designed a professional dashboard to visualize sales performance and key metrics.*  
+
+
+---
+
+- ## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/anas-alotaibi-1ba20436a)
+- Email: anasalotaibi03@gmail.com   
