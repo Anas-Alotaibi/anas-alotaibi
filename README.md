@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anas Alotaibi  
+#  Hi, I'm Anas Alotaibi  
 
 🎓 Statistics student  
 💻 Skilled in Python, SQL, and Power BI  
